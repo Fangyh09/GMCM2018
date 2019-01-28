@@ -32,3 +32,5 @@ python problem3.py
 ![](pic/2_11.png)
 ![](pic/2_12.png)
 
+---
+This is work is made by me, ltk and qyl.
